@@ -1,7 +1,7 @@
  Hi, I’m @QueenCroacusV
 - they/them
 - I like writing, drawing, and gaming.
-- 🌱 I’m currently learning digital art
+- I’m currently learning how to code in Unity
 - not working on collabs right now
 - 📫 How to reach me ... don't.
 
